@@ -3,8 +3,7 @@
 # Ignore log files
 
 # Ignore files
-*.zig-out/bin
-*.zig-out
+*.zig-out/
 
 # Ignore sensitive configuration files
 
