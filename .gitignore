@@ -1,0 +1,13 @@
+# Ignore compiled files
+
+# Ignore log files
+
+# Ignore files
+*.zig-out/bin
+*.zig-out
+
+# Ignore sensitive configuration files
+
+# Ignore IDE-specific files
+
+# Hello World Bro Ignore :)
