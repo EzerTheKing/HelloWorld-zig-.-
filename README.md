@@ -5,6 +5,18 @@
 git clone https://github.com/EzerTheKing/HelloWorld-zig-.-.git
 ```
 
+## Installing Zig.
+I can only provide instructions for Linux and this is using the above packager.
+
+Linux:
+```
+Arch/Artix: sudo pacman -S zig
+
+NixOS: environment.systemPackages = with pkgs; [
+    zig
+  ];
+```
+
 ## Build Code:
 ```
 zig build
